@@ -14,3 +14,9 @@ _To run this application:-_
    - OR
    - Left Shift
    - Right Shift
+
+**How Does it Work**
+
+- It Accepts user Inputs
+- It recognizes which operation to perform with a click
+- Depending upon the choice of operation it compute the result and displays it on the screen.
