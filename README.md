@@ -1,6 +1,7 @@
 ## Getting Started
 
 **_This is a Bitwise Calculator using FLutter SDK_**
+
 _To run this application:-_
 
 - Open the folder containing all the necessary files
